@@ -20,8 +20,8 @@
 
 | Userscript | Trang web hỗ trợ | Cài đặt |
 |:---:|:---|:---:|
-| **🔗 Link4m Bypass** | `link4m.com`<br>`link4m.net`<br>`link4m.org` | [![Cài đặt](https://img.shields.io/badge/C%C3%80I_%C4%90%E1%BA%B6T-27AE60?style=for-the-badge)](https://cdn.jsdelivr.net/gh/ztwsxn/ztwsxn@main/link4m/loader.user.js) |
-| **🚦 gTraffic / Ontops / Toplinks** | `gtraffic.io`<br>`direct.gtraffic.io`<br>`ontops.link`<br>`toplinks.io` | [![Cài đặt](https://img.shields.io/badge/C%C3%80I_%C4%90%E1%BA%B6T-27AE60?style=for-the-badge)](https://cdn.jsdelivr.net/gh/ztwsxn/ztwsxn@main/gtraffic_ontops_toplinks/loader.user.js) |
+| **Link4m Bypass** | `link4m.com`<br>`link4m.net`<br>`link4m.org` | [![Cài đặt](https://img.shields.io/badge/C%C3%80I_%C4%90%E1%BA%B6T-27AE60?style=for-the-badge)](https://cdn.jsdelivr.net/gh/ztwsxn/ztwsxn@main/link4m/loader.user.js) |
+| **gTraffic / Ontops / Toplinks** | `gtraffic.io`<br>`direct.gtraffic.io`<br>`ontops.link`<br>`toplinks.io` | [![Cài đặt](https://img.shields.io/badge/C%C3%80I_%C4%90%E1%BA%B6T-27AE60?style=for-the-badge)](https://cdn.jsdelivr.net/gh/ztwsxn/ztwsxn@main/gtraffic_ontops_toplinks/loader.user.js) |
 
 ---
 
