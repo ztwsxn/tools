@@ -2,7 +2,7 @@ name: link4m-bypass
 
 on:
   push:
-    branches: [main]
+    branches: [bypass]
     paths: ["link4m/bypass.js"]
   workflow_dispatch:
 
@@ -68,5 +68,5 @@ jobs:
 
       - name: Purge jsDelivr
         run: |
-          curl -fsS "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/${CORE}"
-          curl -fsS "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/${LOADER}"
+          curl -fsS "https://purge.jsdelivr.net/gh/${{ github.repository }}@bypass/${CORE}"
+          curl -fsS "https://purge.jsdelivr.net/gh/${{ github.repository }}@bypass/${LOADER}"

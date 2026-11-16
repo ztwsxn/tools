@@ -20,8 +20,8 @@
 
 | Userscript & Trang web hỗ trợ | Cài đặt |
 |:---|:---:|
-| **Link4m**<br>`link4m.com` · `link4m.net` · `link4m.org` | <a href="https://cdn.jsdelivr.net/gh/ztwsxn/ztwsxn@main/link4m/loader.user.js"><img src="https://img.shields.io/badge/-C%C3%80I_%C4%90%E1%BA%B6T-F97316?style=for-the-badge" width="150" alt="Cài đặt"></a> |
-| **gTraffic / Ontops / Toplinks**<br>`gtraffic.io` · `direct.gtraffic.io` · `ontops.link` · `toplinks.io` | <a href="https://cdn.jsdelivr.net/gh/ztwsxn/ztwsxn@main/gtraffic_ontops_toplinks/loader.user.js"><img src="https://img.shields.io/badge/-C%C3%80I_%C4%90%E1%BA%B6T-F97316?style=for-the-badge" width="150" alt="Cài đặt"></a> |
+| **Link4m**<br>`link4m.com` · `link4m.net` · `link4m.org` | <a href="https://raw.githubusercontent.com/ztwsxn/tools/bypass/link4m/loader.user.js"><img src="https://img.shields.io/badge/-C%C3%80I_%C4%90%E1%BA%B6T-F97316?style=for-the-badge" width="150" alt="Cài đặt"></a> |
+| **gTraffic / Ontops / Toplinks**<br>`gtraffic.io` · `direct.gtraffic.io` · `ontops.link` · `toplinks.io` | <a href="https://raw.githubusercontent.com/ztwsxn/tools/bypass/gtraffic_ontops_toplinks/loader.user.js"><img src="https://img.shields.io/badge/-C%C3%80I_%C4%90%E1%BA%B6T-F97316?style=for-the-badge" width="150" alt="Cài đặt"></a> |
 
 ---
 

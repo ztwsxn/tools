@@ -13,9 +13,9 @@
 // @exclude      https://link4m.net/go/not-found
 // @exclude      https://link4m.org/go/not-found
 // @exclude      https://img.link4m.net/*
-// @require      https://cdn.jsdelivr.net/gh/ztwsxn/ztwsxn@a2aa59330b1156ce0bfd557caa29eba6009ded0b/link4m/bypass.js
-// @downloadURL  https://cdn.jsdelivr.net/gh/ztwsxn/ztwsxn@main/link4m/loader.user.js
-// @updateURL    https://cdn.jsdelivr.net/gh/ztwsxn/ztwsxn@main/link4m/loader.user.js
+// @require      https://cdn.jsdelivr.net/gh/ztwsxn/tools@a2aa59330b1156ce0bfd557caa29eba6009ded0b/link4m/bypass.js
+// @downloadURL  https://cdn.jsdelivr.net/gh/ztwsxn/tools@bypass/link4m/loader.user.js
+// @updateURL    https://cdn.jsdelivr.net/gh/ztwsxn/tools@bypass/link4m/loader.user.js
 // @grant        GM.xmlHttpRequest
 // @grant        GM_xmlhttpRequest
 // @grant        GM_getValue
