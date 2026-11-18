@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         gTraffic, Ontops, Toplinks
 // @namespace    https://github.com/ztwsxn
-// @version      1794582061
+// @version      1795010662
 // @description  ...
 // @author       ...
 // @icon         https://github.com/ztwsxn.png?size=64
@@ -10,7 +10,7 @@
 // @match        https://direct.gtraffic.io/*
 // @match        https://ontops.link/*
 // @match        https://toplinks.io/*
-// @require      https://cdn.jsdelivr.net/gh/ztwsxn/tools@3f8f3028c8c915a22f585c04df062ad785b55a24/gtraffic_ontops_toplinks/bypass.js
+// @require      https://cdn.jsdelivr.net/gh/ztwsxn/tools@bd01d85b745e189413f77cd6197fd461fe22271c/gtraffic_ontops_toplinks/bypass.js
 // @downloadURL  https://cdn.jsdelivr.net/gh/ztwsxn/tools@bypass/gtraffic_ontops_toplinks/loader.user.js
 // @updateURL    https://cdn.jsdelivr.net/gh/ztwsxn/tools@bypass/gtraffic_ontops_toplinks/loader.user.js
 // @grant        unsafeWindow
