@@ -16,7 +16,6 @@
 // @require      https://cdn.jsdelivr.net/gh/ztwsxn/tools@a2aa59330b1156ce0bfd557caa29eba6009ded0b/link4m/bypass.js
 // @downloadURL  https://cdn.jsdelivr.net/gh/ztwsxn/tools@bypass/link4m/loader.user.js
 // @updateURL    https://cdn.jsdelivr.net/gh/ztwsxn/tools@bypass/link4m/loader.user.js
-// @grant        GM.xmlHttpRequest
 // @grant        GM_xmlhttpRequest
 // @grant        GM_getValue
 // @grant        GM_setValue
